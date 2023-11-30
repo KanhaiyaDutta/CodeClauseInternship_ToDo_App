@@ -5,4 +5,4 @@ ToDayDo is a simple and easy-to-use ToDo app built with Flutter. This app was cr
 ## Features
 
 - Add and delete tasks
-- Mark tasks as completed
+- Mark tasks as completed.
